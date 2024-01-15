@@ -1,0 +1,17 @@
+{
+  "list": [
+    {
+      "name": "Tiger",
+      "status": "Endangered",
+      "population": 3900,
+      "description": "Tigers are found only in Asia."
+    },
+    {
+      "name": "Blue Whale",
+      "status": "Endangered",
+      "population": 25000,
+      "description": "Blue Whales are found in all oceans except the Arctic."
+    }
+  ],
+  "name": "My animal profiles"
+}

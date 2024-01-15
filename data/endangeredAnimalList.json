@@ -1,0 +1,17 @@
+{
+    "name": "My animal profiles",
+    "list": [
+        {
+            "name": "Whale",
+            "description": "alive",
+            "status": "Endangered",
+            "population": 100
+        },
+        {
+            "name": "Tiger",
+            "description": "alive",
+            "status": "Endangered",
+            "population": 100
+        }
+    ]
+}
